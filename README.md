@@ -1,5 +1,5 @@
 # odin-recipes
-Intentando terminar esta bosta para aprender javascript
+Intentando terminar esta cosa para aprender javascript
 
 Pagina güe
 
