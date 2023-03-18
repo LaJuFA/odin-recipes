@@ -1,6 +1,6 @@
 # odin-recipes
 Intentando terminar esta cosa para aprender javascript
 
-Pagina güe
+Pagina güeb
 
 https://lajufa.github.io/odin-recipes/
